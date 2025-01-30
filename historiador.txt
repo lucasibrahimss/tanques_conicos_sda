@@ -66888,3 +66888,1388 @@ Niveis: H1=1.000, H2=1.200, H3=1.500
 Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
 Modo: Automatico
 
+Hora: 2025-01-30 17:19:44
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:45
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:46
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:47
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:48
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:49
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:50
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:51
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:52
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:53
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:54
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:55
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:56
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:58
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:19:59
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:00
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:01
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:02
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:03
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:04
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:05
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:06
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:07
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:08
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:09
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:10
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:11
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:12
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:13
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:14
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:15
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:16
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:17
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:18
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:19
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:20
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:21
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:22
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:23
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:24
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:25
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:26
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:27
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:28
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:29
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:30
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:31
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:32
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:33
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:34
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:35
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:36
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:37
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:38
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:39
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:40
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:41
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:42
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:44
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:45
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:46
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:47
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:48
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:49
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:50
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:51
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:52
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:53
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:54
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:55
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:56
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:57
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:58
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:20:59
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:00
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:01
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:02
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:03
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:04
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:05
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:06
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:07
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:08
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:09
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:10
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:11
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:12
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:13
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:14
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:15
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:16
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:17
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:18
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:19
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:20
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:21
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:22
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:23
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:24
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:25
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:26
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:27
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:28
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:29
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:30
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:31
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:32
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:34
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:35
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:36
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:37
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:38
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:39
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:40
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:41
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:42
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:43
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:44
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:45
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:46
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:47
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:48
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:49
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:50
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:51
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:52
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:53
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:54
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:55
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:56
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:57
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:58
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:21:59
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:00
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:01
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:02
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:03
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:04
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:05
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:06
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:07
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:08
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:09
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:10
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:11
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:12
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:13
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:14
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:15
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:16
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:17
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:18
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:19
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:20
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:21
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:23
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:24
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:25
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:26
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:27
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:28
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:29
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:30
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:31
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:32
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:33
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:34
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:35
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:36
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:37
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:38
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:39
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:40
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:41
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:42
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:43
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:44
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:45
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:46
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:47
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:48
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:49
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:50
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:51
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:52
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:53
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:54
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:55
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:56
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:57
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:58
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:22:59
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:00
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:01
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:02
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:03
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:04
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:05
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:06
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:07
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:08
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:09
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:10
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:11
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:12
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:13
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:14
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:15
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:16
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:17
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:18
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:20
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:21
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:22
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:23
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:24
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:25
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:26
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:27
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:28
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:29
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:30
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:31
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:32
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:33
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:34
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:35
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:36
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:37
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:38
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:39
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:40
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:41
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:42
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:43
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:44
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:45
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:46
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:47
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:48
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:49
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:50
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:51
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:52
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:53
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:54
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:55
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:56
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:57
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:58
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:23:59
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:00
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:01
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:02
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:03
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:04
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:05
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:06
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:07
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:08
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:09
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:10
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:11
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:12
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:13
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:14
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:15
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:16
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:17
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:18
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:19
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:20
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:21
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:23
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:24
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:25
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
+Hora: 2025-01-30 17:24:26
+Niveis: H1=1.000, H2=1.200, H3=1.500
+Vazoes: Q1=1.683, Q2=1.283, Q3=0.735
+Modo: Automatico
+
